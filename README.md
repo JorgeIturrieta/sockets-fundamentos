@@ -5,5 +5,11 @@ Este es un pequeño servidor de express listo para ejecutarse y servir la carpet
 Recuerden que deben de reconstruir los módulos de node con el comando
 
 ```
-npm install
+npm install 
+```
+
+# Levantar aplicacion con docker 
+
+```
+docker-compose up -d
 ```
